@@ -6,7 +6,6 @@
 {{--comment by hung--}}
 {{--comment by hung--}}
 
-{{--123--}}
 @section('content')
 <div class="container">
     <div class="row">
