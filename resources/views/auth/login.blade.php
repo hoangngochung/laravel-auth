@@ -1,5 +1,7 @@
 @extends('layouts.app')
 
+{{--comment by hung--}}
+
 @section('content')
 <div class="container">
     <div class="row">
