@@ -6,7 +6,6 @@
 {{--comment by hung--}}
 {{--comment by hung--}}
 
-{{--branch dev_ add++ --}}
 @section('content')
 <div class="container">
     <div class="row">
